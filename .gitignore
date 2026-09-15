@@ -1,0 +1,15 @@
+.idea/
+.venv/
+.ipynb_checkpoints/
+.DS_Store
+nhanes_missing_data_exercises.md
+bp_prediction_exercises.py
+bp_prediction_solutions.py
+nhanes_comments_only.py
+nhanes_synthetic_data.py
+*.csv
+*.xpt
+*.txt
+*.xlsx
+*.xls
+__pycache__/
