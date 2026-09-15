@@ -15,7 +15,7 @@
 ## Evaluation
 - Root mean squared error (RMSE)
 - Mean absolute error (MAE)
-- R-Sqaured (R²)
+- R-Squared (R²)
 - Residual diagnostics
 
 ## Results
